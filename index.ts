@@ -1,4 +1,2 @@
-let message = "salam khawaja";
-let userName = "waseem ahmed"
-console.log(message);
-console.log(userName);
+let message = "salam khawaja"
+console.log(message)
